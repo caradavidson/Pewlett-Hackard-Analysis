@@ -7,13 +7,13 @@ Overview of the Analysis:
 ![Pewlett](https://user-images.githubusercontent.com/103377635/173269642-0b10a468-482f-4fe7-8729-6b4c00da4cb6.png)
   
 Results:
-There are a total of 300,024 employees at Pewlett Hackard. Of these 300,024 employees, tere are 1,549 employees elgible for the mentorship program. There are seven titles elgible for retirement soon including senior engingeer, senior staff, engineer, staff, technique leader, assistant engingeer, and manager.
+There are a total of 300,024 employees at Pewlett Hackard. Of these 300,024 employees, there are 1,549 employees elgible for the mentorship program. There are seven titles elgible for retirement soon including senior engingeer, senior staff, engineer, staff, technique leader, assistant engingeer, and manager.
 
 ![image](https://user-images.githubusercontent.com/103377635/173269612-8884a305-d2e3-4938-8e59-ca9a26992bb8.png)
 
+![image](https://user-images.githubusercontent.com/103377635/173269467-aad5fe43-2fba-411e-99d2-56e58b4ff312.png)
 
 Summary:
-Currently there are 72,458 employees that are elgible to retire soon.
+Currently there are 72,458 employees that are elgible to retire soon. Due to the small number of employees elgible to mentor (1,549 employees are elgible) the company should consider chaning their mentoring guidelines so that more people are able to want to stay at the company to keep the company numbers up.
 
-![image](https://user-images.githubusercontent.com/103377635/173269467-aad5fe43-2fba-411e-99d2-56e58b4ff312.png)
 
